@@ -1,7 +1,6 @@
 
 # **Contributors**
 <!-- prettier-ignore-start -->
--[Phan Nhật Chánh](https://github.com/phannhatchanh)
 -[Genominus](https://github.com/Genominus)
 -[Anas Jehani](https://github.com/Ajehani)
 -[HninYuHlaing](https://github.com/miracleace)
@@ -12,6 +11,7 @@
 -[Saiwunna21](https://github.com/SaiWunna21)
 -[Deep-Ramani](https://github.com/Deep-Ramani)
 - [AndyCam](https://github.com/AndresDavidArcos)
+- [Phan Nhật Chánh](https://github.com/phannhatchanh)
 - [Kaleb Mesfin Asfaw](https://github.com/kalebmes)
 - [Sumon Dey](https://github.com/DeySmn)
 - [Kyaw Thu](https://github.com/evanch98)
